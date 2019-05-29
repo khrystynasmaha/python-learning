@@ -1,2 +1,3 @@
-print (8.00+8.00*0.13)*0.15
-# comment
+from math import pi
+r=input ("What is a number?")
+print (pi*int(r)**2)
